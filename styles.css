@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+.lable{
+    display: flex;
+    font-weight: bold;
+    color: black;
+    flex-direction: column;
+    margin-bottom: 2%;
+}
+.input{
+    width: 15%;
+    margin-left: 42%;
+    margin-top: 1%;
+    padding: 1%;
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+.check{
+    width: 6%;
+    padding: 0.8%;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+}
